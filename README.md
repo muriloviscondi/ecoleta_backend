@@ -14,7 +14,7 @@
   <li>Knex</li>
   <li>Sqlite3</li>
 </ul>
-<h3>Dependências utilizadas para desenvolvimento:</h3>
+<h3>Dependências de desenvolvimento:</h3>
 <ul>
   <li>@types/cors</li>
   <li>@types/express</li>
