@@ -8,9 +8,10 @@ namespace dotNet.Models
     public int Id { get; set; }
 
     [Required(ErrorMessage = "Campo obrigatório")]
-    public string Image { get; set; }
+    public string Title { get; set; }
 
     [Required(ErrorMessage = "Campo obrigatório")]
-    public string Title { get; set; }
+    public string Image { get; set; }
+
   }
 }
